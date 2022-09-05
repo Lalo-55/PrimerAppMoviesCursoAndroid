@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nirva/OneDrive/Programacion Cursos/Android Studio/Cursos/Curso Android Definitivo Gaston Sailen/041 App Movies Practica/app/src/main/res/drawable/gradient.xml" value="0.366" />
+        <entry key="..\:/Users/nirva/OneDrive/Programacion Cursos/Android Studio/Cursos/Curso Android Definitivo Gaston Sailen/041 App Movies Practica/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.366" />
         <entry key="..\:/Users/nirva/OneDrive/Programacion Cursos/Android Studio/Cursos/Curso Android Definitivo Gaston Sailen/041 App Movies Practica/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/nirva/OneDrive/Programacion Cursos/Android Studio/Cursos/Curso Android Definitivo Gaston Sailen/041 App Movies Practica/app/src/main/res/layout/fragment_movie.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/nirva/OneDrive/Programacion Cursos/Android Studio/Cursos/Curso Android Definitivo Gaston Sailen/041 App Movies Practica/app/src/main/res/layout/fragment_movie_detail.xml" value="0.25" />
       </map>
     </option>
   </component>
