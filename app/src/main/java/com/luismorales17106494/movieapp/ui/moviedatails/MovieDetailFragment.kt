@@ -1,10 +1,9 @@
-package com.luismorales17106494.movieapp
+package com.luismorales17106494.movieapp.ui.moviedatails
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
+import com.luismorales17106494.movieapp.R
 import com.luismorales17106494.movieapp.databinding.FragmentMovieDetailBinding
 
 
